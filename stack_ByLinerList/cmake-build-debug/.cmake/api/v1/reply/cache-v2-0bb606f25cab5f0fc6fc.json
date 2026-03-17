@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/code/Code2025/Clion/data_structure_copy/RC_DoubleLinkedList/cmake-build-debug"
+			"value" : "e:/code/Code2025/Clion/data_structure_copy1/stack_ByLinerList/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/code/Code2025/Clion/data_structure_copy/RC_DoubleLinkedList/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "E:/code/Code2025/Clion/data_structure_copy1/stack_ByLinerList/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/code/Code2025/Clion/data_structure_copy/RC_DoubleLinkedList"
+			"value" : "E:/code/Code2025/Clion/data_structure_copy1/stack_ByLinerList"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/RC_DoubleLinkedList"
+			"value" : "C:/Program Files (x86)/stack_ByLinerList"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "RC_DoubleLinkedList"
+			"value" : "stack_ByLinerList"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1110,7 +1110,19 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "RC_DoubleLinkedList_BINARY_DIR",
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "stack_ByLinerList_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1119,10 +1131,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/code/Code2025/Clion/data_structure_copy/RC_DoubleLinkedList/cmake-build-debug"
+			"value" : "E:/code/Code2025/Clion/data_structure_copy1/stack_ByLinerList/cmake-build-debug"
 		},
 		{
-			"name" : "RC_DoubleLinkedList_IS_TOP_LEVEL",
+			"name" : "stack_ByLinerList_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1134,7 +1146,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "RC_DoubleLinkedList_SOURCE_DIR",
+			"name" : "stack_ByLinerList_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1143,19 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/code/Code2025/Clion/data_structure_copy/RC_DoubleLinkedList"
-		},
-		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
+			"value" : "E:/code/Code2025/Clion/data_structure_copy1/stack_ByLinerList"
 		}
 	],
 	"kind" : "cache",

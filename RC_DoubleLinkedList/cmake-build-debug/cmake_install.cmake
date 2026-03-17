@@ -1,4 +1,4 @@
-# Install script for directory: E:/code/Code2025/Clion/data_structure_copy/RC_DoubleLinkedList
+# Install script for directory: E:/code/Code2025/Clion/data_structure_copy1/RC_DoubleLinkedList
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/code/Code2025/Clion/data_structure_copy/RC_DoubleLinkedList/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/code/Code2025/Clion/data_structure_copy1/RC_DoubleLinkedList/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

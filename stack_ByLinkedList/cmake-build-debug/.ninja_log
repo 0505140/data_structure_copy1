@@ -1,0 +1,7 @@
+# ninja log v5
+0	72	7954387763512403	CMakeFiles/stack_ByLinkedList.dir/main.c.obj	9b8d5b85f6e16837
+72	163	7954387764389239	stack_ByLinkedList.exe	434106576b43460b
+1	68	7954388108918486	CMakeFiles/stack_ByLinkedList.dir/main.c.obj	9b8d5b85f6e16837
+68	143	7954388109629421	stack_ByLinkedList.exe	434106576b43460b
+2	67	7954388387968062	CMakeFiles/stack_ByLinkedList.dir/main.c.obj	9b8d5b85f6e16837
+67	144	7954388388703757	stack_ByLinkedList.exe	434106576b43460b

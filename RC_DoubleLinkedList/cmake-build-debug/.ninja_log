@@ -1,11 +1,3 @@
 # ninja log v5
-0	100	7953454285031649	CMakeFiles/RC_DoubleLinkedList.dir/main.c.obj	9796c78728652ca9
-101	204	7953454286041860	RC_DoubleLinkedList.exe	60fd1c2e0b4a86c9
-1	74	7953455825415201	CMakeFiles/RC_DoubleLinkedList.dir/main.c.obj	9796c78728652ca9
-74	165	7953455826295958	RC_DoubleLinkedList.exe	60fd1c2e0b4a86c9
-2	69	7953456565744229	CMakeFiles/RC_DoubleLinkedList.dir/main.c.obj	9796c78728652ca9
-69	144	7953456566472077	RC_DoubleLinkedList.exe	60fd1c2e0b4a86c9
-1	63	7953461634768907	CMakeFiles/RC_DoubleLinkedList.dir/main.c.obj	9796c78728652ca9
-63	138	7953461635488226	RC_DoubleLinkedList.exe	60fd1c2e0b4a86c9
 2	64	7953461828687706	CMakeFiles/RC_DoubleLinkedList.dir/main.c.obj	9796c78728652ca9
 64	138	7953461829386669	RC_DoubleLinkedList.exe	60fd1c2e0b4a86c9
