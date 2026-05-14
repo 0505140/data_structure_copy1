@@ -1,0 +1,13 @@
+# ninja log v5
+0	114	7972520718048955	CMakeFiles/BiTree_PreOrder.dir/main.c.obj	8c85e848bcaa31f7
+115	230	7972520719168236	BiTree_PreOrder.exe	a5e2ad0cd2406a76
+1	71	7972522401412598	CMakeFiles/BiTree_PreOrder.dir/main.c.obj	8c85e848bcaa31f7
+71	162	7972522402282707	BiTree_PreOrder.exe	a5e2ad0cd2406a76
+2	72	7972523290015710	CMakeFiles/BiTree_PreOrder.dir/main.c.obj	8c85e848bcaa31f7
+72	167	7972523290937596	BiTree_PreOrder.exe	a5e2ad0cd2406a76
+2	68	7972525250332048	CMakeFiles/BiTree_PreOrder.dir/main.c.obj	8c85e848bcaa31f7
+68	148	7972525251095488	BiTree_PreOrder.exe	a5e2ad0cd2406a76
+1	64	7972525602929287	CMakeFiles/BiTree_PreOrder.dir/main.c.obj	8c85e848bcaa31f7
+64	141	7972525603656033	BiTree_PreOrder.exe	a5e2ad0cd2406a76
+1	65	7972527314092097	CMakeFiles/BiTree_PreOrder.dir/main.c.obj	8c85e848bcaa31f7
+66	146	7972527314854873	BiTree_PreOrder.exe	a5e2ad0cd2406a76
